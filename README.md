@@ -1,3 +1,6 @@
+# Fork
+ This is a fork of Adafruit Python PureIO library to add support to AriettaG25 board.
+
 # Adafruit Python PureIO
 
 Pure python (i.e. no native extensions) access to Linux IO including I2C and SPI.  
